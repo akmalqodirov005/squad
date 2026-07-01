@@ -1,7 +1,7 @@
-import React from 'react'
 import { Outlet } from 'react-router-dom'
 import Footer from '../footer/Footer'
 import Header from '../header/Header'
+import './RootLayout.css'
 
 const RootLayout = () => {
   return (
@@ -10,7 +10,7 @@ const RootLayout = () => {
             <Header/>
         </header>
 
-        <main>
+        <main className='main'>
             <Outlet/>
         </main>
 
