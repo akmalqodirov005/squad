@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import React from 'react'
+=======
+
+>>>>>>> cdd26ec5f2419deb852cae7a5818640e94e52109
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import RootLayout from '../layouts/layout/RootLayout'
 import Home from '../pages/home/Home'

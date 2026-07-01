@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import "./About.css";
 
 const About = () => {
@@ -213,3 +214,14 @@ const About = () => {
 
 
 export default About;
+=======
+import React from 'react'
+
+const About = () => {
+  return (
+    <div>About</div>
+  )
+}
+
+export default About
+>>>>>>> cdd26ec5f2419deb852cae7a5818640e94e52109

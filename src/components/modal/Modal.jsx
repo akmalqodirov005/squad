@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import "./Modal.css";
 import akmal from "../modal/images/akmal_aka.JPG"
 import ibrohim from "../modal/images/ibrohim.JPG"
@@ -71,3 +72,14 @@ const Modal = () => {
 };
 
 export default Modal;
+=======
+import React from 'react'
+
+const Modal = () => {
+  return (
+    <div>Modal</div>
+  )
+}
+
+export default Modal
+>>>>>>> cdd26ec5f2419deb852cae7a5818640e94e52109

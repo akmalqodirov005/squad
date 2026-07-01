@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import "./Home.css";
 import Losers from './images/losers.jpg'
 
@@ -158,3 +159,14 @@ const Home = () => {
 };
 
 export default Home;
+=======
+import React from 'react'
+
+const Home = () => {
+  return (
+    <div>Home</div>
+  )
+}
+
+export default Home
+>>>>>>> cdd26ec5f2419deb852cae7a5818640e94e52109
